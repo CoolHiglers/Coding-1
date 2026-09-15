@@ -1,0 +1,39 @@
+body{
+   backround-color: Red;
+   font-family; Ariel, sans sherif;
+   text-align: center;
+  padding: 60px;
+}
+
+h1 {
+  font-size: 60px;
+  color:Gold;
+  margin-bottom: 20px;
+  text-shadow: 2px 2px Blue;
+  }
+
+button{
+  color: Red;
+  padding: 15px 30px;
+  font size:20px;
+  font weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 2px 2px 8px Black;
+  transition: all 0.3s ease;
+  }
+
+button:hover {
+  background-color: Black;
+  color: Red;
+  transform: scale(1.05);
+  }
+#wordDisplay {
+  font-size: 30px;
+  color: Red;
+  margin-top 20px;
+  padding: 30px;
+  backround-color: DarkGreen;
+  border-radius: 5px;
+  box-shadow: 2px 2px 8px Black;
+  }
