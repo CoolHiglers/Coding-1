@@ -1,6 +1,6 @@
 body{
    backround-color: Red;
-   font-family; Ariel, sans serif;
+   font-family: Ariel, sans serif;
    text-align: center;
   padding: 60px;
 }
@@ -16,7 +16,7 @@ button{
   color: Red;
   padding: 15px 30px;
   font size:20px;
-  font weight: bold;
+  font weight:bold;
   border-radius: 8px;
   cursor: pointer;
   box-shadow: 2px 2px 8px Black;
@@ -31,7 +31,7 @@ button:hover {
 #wordDisplay {
   font-size: 30px;
   color: Red;
-  margin-top 20px;
+  margin-top: 20px;
   padding: 30px;
   backround-color: DarkGreen;
   border-radius: 5px;
