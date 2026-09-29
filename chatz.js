@@ -11,10 +11,10 @@ function handleUserInput(event) {
 
     document.getElementById("userInput").value = "";
 
-    chat.innerHTML+=`<p><strong>Redneck:</strong> ${userInput}</p>`;
+    chat.innerHTML+=`<p><strong>Goy:</strong> ${userInput}</p>`;
 
     const response = chatbotResponses[userInput.toLowerCase()] || chatbotResponses["default"];
 
-chat.innerHTML+= `<p><strong>Cheese:</strong>  ${response}</p>`;
+chat.innerHTML+= `<p><strong>Redneck:</strong>  ${response}</p>`;
   }
 }
