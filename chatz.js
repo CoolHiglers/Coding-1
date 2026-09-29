@@ -5,6 +5,7 @@ const chatbotResponses ={
   "ouch": "back in my day there werent no ouch, ye god dang softie"
   "thats offensive": "so? i dont give a dang abat your feelings. im tryina make tik toks on how lazy this generation is, its hard work ya know!"
   "why are you so rude": "because i aint soft eh 'pats your shoulder' man up boyh"
+  "punches him": "'ignores it like a TUFF MANGO GUY' im too tuff to be damaged right now"
   "default":"oooh sorry i have only 3 braincells due to falling from the eiffel tower booty first and a stick penetrated me so i dont understand."
 };
 function handleUserInput(event) {
