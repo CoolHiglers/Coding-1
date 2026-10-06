@@ -4,6 +4,10 @@ const chatbotResponses ={
   "bye": "ah this generation. they dont know no god dang work do they? just the laziest netflix tiki taki lovin brats.",
   "ouch": "back in my day there werent no ouch, ye god dang softie",
   "punches him": "'ignores it like a TUFF MANGO GUY' im too tuff to be damaged right now",
+  "punches": "'ignores it like a TUFF MANGO GUY' im too tuff to be damaged right now",
+  "i love isreal": "me too",
+  "i hate isreal": "AY, DONT DİSRESPECT OUR GREATEST ALLY 'malfuncions' DONT BE ANTI SIMETIC.",
+  "are you a robot": "no, im totally not a isreali spy drone ai made by elon musk Beep boop",
   "default":"oooh sorry i have only 3 braincells due to falling from the eiffel tower booty first and a stick penetrated me so i dont understand."
 };
 function handleUserInput(event) {
