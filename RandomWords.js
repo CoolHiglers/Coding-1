@@ -1,2 +1,8 @@
 const words = ["Bee, sontatochipasaurusrex, tung tung teethur, googoo gogoogogoogogoo, ball, i love the HornPub, why are you doing this, help, im addicted to the laughterhouse  "]
-function generateRandomWord()
+function generateRandomWord(){
+  
+  const randomIndex = Math.floor (Math.random() * words.length);
+  
+  const randomWord = words[randomIndex];
+  document.getElementById("wordDisplay").innerText = randomWord;
+}
