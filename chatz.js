@@ -8,6 +8,7 @@ const chatbotResponses ={
   "i love isreal": "me too",
   "i hate isreal": "AY, DONT DİSRESPECT OUR GREATEST ALLY 'malfuncions' DONT BE ANTI SIMETIC.",
   "are you a robot": "no, im totally not a isreali spy drone ai made by elon musk Beep boop",
+  
   "default":"oooh sorry i have only 3 braincells due to falling from the eiffel tower booty first and a stick penetrated me so i dont understand."
 };
 function handleUserInput(event) {
