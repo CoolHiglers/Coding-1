@@ -1,6 +1,6 @@
 body{
    background-color: Red;
-   font-family: Arial, sans serif;
+   font-family: Arial, sans-serif;
    text-align: center;
   padding: 60px;
 }
@@ -14,7 +14,7 @@ h1 {
 img:hover{  
 border-radius:8px;
 }
-img:{  
+img:hover {  
 transform:scale(1.05);
 }
 button{
@@ -38,7 +38,7 @@ button:hover {
   color: Black;
   margin-top: 20px;
   padding: 30px;
-  backround-color: DarkGreen;
+  background-color: DarkGreen;
   border-radius: 5px;
   box-shadow: 2px 2px 8px Black;
   }
