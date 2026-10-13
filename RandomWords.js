@@ -1,4 +1,4 @@
-const words = ["Bee", "sontatochipasaurusrex," "tung tung teethur," "googoo gogoogogoogogoo," "ball", "i love the HornPub", "why are you doing this," "help," "im addicted to the laughterhouse"]
+const words = ["Bee", "sontatochipasaurusrex," "tung tung teethur", "googoo gogoogogoogogoo", "ball", "i love the HornPub", "why are you doing this", "help", "im addicted to the laughterhouse"]
 function generateRandomWord(){
   
   const randomIndex = Math.floor (Math.random() * words.length);
